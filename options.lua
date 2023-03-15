@@ -27,6 +27,7 @@ return {
     expandtab = false,
     smarttab = true,
     shiftwidth = 4,
+    autoindent = true,
   },
   g = {
     mapleader = " ", -- sets vim.g.mapleader
